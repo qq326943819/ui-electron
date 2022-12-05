@@ -1,0 +1,5 @@
+appId: com.make-id.app
+files:
+  - dist
+directories:
+  output: dist/release
